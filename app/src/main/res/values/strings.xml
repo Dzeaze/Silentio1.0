@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">d1</string>
+
+    <string name="title_default">
+        TITLE
+        </string>
+
+    <string name="destiny">
+        DESTINY
+        </string>
+
+    <string name="stepping">
+        STEPPING
+        </string>
+
+    <string name="lying">
+        LYING
+        </string>
+
+    <string name="reaching">
+        REACHING
+        </string>
+
+    <string name="embryo">
+        EMBRYO
+        </string>
+
+    <string name="looking_back">
+        LOOKING BACK
+        </string>
+
+    <string name="weakness">
+        WEAKNESS
+        </string>
+
+    <string name="recovering">
+        RECOVERING
+        </string>
+
+    <string name="thirst">
+        THIRST
+        </string>
+
+    <string name="welcome">
+        WELCOME
+        </string>
+
+    <string name="description_welcome">
+
+Choose the character and tap it to make it move
+</string>
+
+
+
+
+    <string name="description_default">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt  magna aliqua.
+</string>
+
+    <string name="description_destiny">
+
+I am the power that rules your life. But truly i have only one place. I’m inside you
+</string>
+
+    <string name="description_stepping">
+
+I will always move forward, step by step. It doesn\'t matter what I meet on my way.
+</string>
+
+    <string name="description_lying">
+
+I am lying on an invisible base from my experiense and memories. it will never let me fall down
+</string>
+
+    <string name="description_reaching">
+
+I am reaching for the stars to reach my dreams, to touch it and make it shine bright
+</string>
+
+    <string name="description_embryo">
+
+I am made of childish fears. Keep me safe and always remember you can overcome everything
+</string>
+
+    <string name="description_looking_back">
+
+I am watching on everything i left behind.  It used to be real, but now it’s all gone
+</string>
+
+    <string name="description_weakness">
+
+I am weak now.  But I\'ll get my strength back soon and continue on my way
+</string>
+
+    <string name="description_recovering">
+
+I am taking off my old bandages. All my wounds are now healed
+</string>
+
+    <string name="description_thirst">
+
+I am catching the drops of new impressions. I’m ready to get something fresh
+</string>
+
+
+
+</resources>
