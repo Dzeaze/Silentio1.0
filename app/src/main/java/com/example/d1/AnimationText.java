@@ -2,12 +2,12 @@ package com.example.d1;
 
 import com.airbnb.lottie.LottieAnimationView;
 
-public class Animation {
+public class AnimationText {
     private LottieAnimationView animation;
     private int title;
     private int description;
 
-    public Animation(LottieAnimationView animation, int title, int description) {
+    public AnimationText(LottieAnimationView animation, int title, int description) {
         this.animation = animation;
         this.title = title;
         this.description = description;
